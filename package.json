@@ -1,0 +1,18 @@
+{
+  "name": "guess-game",
+  "version": "1.0.0",
+  "description": "creating a guess game",
+  "main": "Hasnain.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Illumuddin",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
